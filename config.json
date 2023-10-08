@@ -1077,10 +1077,9 @@
         "name": "Scrabble Score",
         "uuid": "109a8a3e-cc3f-4f2a-a385-c12f9e9865cf",
         "practices": [
-          "maps"
+          "case-expressions"
         ],
         "prerequisites": [
-          "maps",
           "lists",
           "labelled-arguments",
           "case-expressions",
